@@ -1,0 +1,39 @@
+{
+  "product": [
+    {
+      "id": 1,
+      "product_name": "json-server",
+      "price": "typicode",
+      "quantity": "json-server",
+      "created_at":"10-5  -2024"
+    },
+    {
+      "id": 2,
+      "product_name": "json-server",
+      "price": "typicode",
+      "quantity": "json-server",
+      "created_at":"10-5  -2024"
+    },
+    {
+      "id": 3,
+      "product_name": "json-server",
+      "price": "typicode",
+      "quantity": "json-server",
+      "created_at":"10-5  -2024"
+    },
+    {
+      "id": 4,
+      "product_name": "json-server",
+      "price": "typicode",
+      "quantity": "json-server",
+      "created_at":"10-5  -2024"
+    },
+    {
+      "id": 5,
+      "product_name": "json-server",
+      "price": "typicode",
+      "quantity": "json-server",
+      "created_at":"10-5  -2024"
+    }
+  ]
+}
