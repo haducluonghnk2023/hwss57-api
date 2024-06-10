@@ -1,39 +1,95 @@
 {
   "product": [
     {
-      "id": 1,
-      "product_name": "json-server",
-      "price": "typicode",
-      "quantity": "json-server",
-      "created_at":"10-5  -2024"
-    },
-    {
       "id": 2,
       "product_name": "json-server",
       "price": "typicode",
       "quantity": "json-server",
-      "created_at":"10-5  -2024"
+      "created_at": "10-5  -2024"
     },
     {
       "id": 3,
       "product_name": "json-server",
       "price": "typicode",
       "quantity": "json-server",
-      "created_at":"10-5  -2024"
+      "created_at": "10-5  -2024"
     },
     {
-      "id": 4,
-      "product_name": "json-server",
-      "price": "typicode",
-      "quantity": "json-server",
-      "created_at":"10-5  -2024"
+      "name": "Sản phẩm cập nhật",
+      "price": 120000,
+      "description": "Mô tả sản phẩm cập nhật",
+      "category": "Danh mục sản phẩm cập nhật",
+      "id": 4
     },
     {
       "id": 5,
       "product_name": "json-server",
       "price": "typicode",
       "quantity": "json-server",
-      "created_at":"10-5  -2024"
+      "created_at": "10-5  -2024"
+    },
+    {
+      "name": "Sản phẩm mới",
+      "price": 100000,
+      "description": "Mô tả sản phẩm mới",
+      "category": "Danh mục sản phẩm",
+      "id": 6
+    },
+    {
+      "name": "Sản phẩm mới",
+      "price": 100000,
+      "description": "Mô tả sản phẩm mới",
+      "category": "Danh mục sản phẩm",
+      "id": 7
+    },
+    {
+      "name": "Sản phẩm mới",
+      "price": 100000,
+      "description": "Mô tả sản phẩm mới",
+      "category": "Danh mục sản phẩm",
+      "id": 8
+    },
+    {
+      "name": "Sản phẩm mới",
+      "price": 100000,
+      "description": "Mô tả sản phẩm mới",
+      "category": "Danh mục sản phẩm",
+      "id": 9
+    },
+    {
+      "name": "Sản phẩm mới",
+      "price": 100000,
+      "description": "Mô tả sản phẩm mới",
+      "category": "Danh mục sản phẩm",
+      "id": 10
+    },
+    {
+      "name": "Sản phẩm mới",
+      "price": 100000,
+      "description": "Mô tả sản phẩm mới",
+      "category": "Danh mục sản phẩm",
+      "id": 11
+    },
+    {
+      "name": "Sản phẩm mới",
+      "price": 100000,
+      "description": "Mô tả sản phẩm mới",
+      "category": "Danh mục sản phẩm",
+      "id": 12
+    },
+    {
+      "name": "Sản phẩm mới",
+      "price": 100000,
+      "description": "Mô tả sản phẩm mới",
+      "category": "Danh mục sản phẩm",
+      "id": 13
+    },
+    {
+      "name": "Sản phẩm mới",
+      "price": 100000,
+      "description": "Mô tả sản phẩm mới",
+      "category": "Danh mục sản phẩm",
+      "id": 14
     }
   ]
 }
